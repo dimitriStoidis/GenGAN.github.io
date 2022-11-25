@@ -1,1 +1,1 @@
-# genderless.github.io
+# GenGAN.github.io
